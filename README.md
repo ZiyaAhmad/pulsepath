@@ -1,5 +1,5 @@
 # PulsePath
-ML-program built for the Synopsys Science Fair 2025-26.
+ML-based program built for the Synopsys Science Fair 2025-26.
 
 Presentation trifold can be found here: [https://docs.google.com/presentation/d/1ubiWkkjD9npzASVNndkHZ8OacZJq7ahLl7JQLaWFG90/edit?usp=sharing](https://docs.google.com/presentation/d/1ubiWkkjD9npzASVNndkHZ8OacZJq7ahLl7JQLaWFG90/edit?usp=sharing)
 
